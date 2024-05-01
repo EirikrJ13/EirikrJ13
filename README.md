@@ -3,4 +3,9 @@
 <img src="https://i.ibb.co/Hdv0ygs/Developer.png">
 </div>
 
+## Sobre mi
+ 
+- ​🐍​ Python Programmer
+- ​🧑‍🎓​ Student
+<br>
 
