@@ -1,5 +1,7 @@
-### Hi I'm Eric Joel 👋
-
+<div align="center">
+<h1 align="center">Hi, I'm <a href="https://aristi.dev">Eric Joel</a> 👋</h1>
+</div>
+<img src="https://i.imgur.com/weNbhGZ.png](https://i.ibb.co/Hdv0ygs/Developer.png">
 <!--
 **EirikrJ13/EirikrJ13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
